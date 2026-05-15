@@ -1,4 +1,4 @@
- # 🛕 Temple Dash – Ancient India Runner Game
+ # 🛕 Temple Dash – Ancient India Runner Game >
 
 <img width="1200" height="900" alt="temple" src="https://github.com/user-attachments/assets/bf6c430c-b60b-4ce4-862d-fc6d7a203a5c" />
 
